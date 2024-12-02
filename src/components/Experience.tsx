@@ -31,7 +31,7 @@ const experiences: ExperienceItem[] = [
       "Collaborated with the development team to identify issues, other solutions, and ensure a smooth deployment pipeline.",
       "Designed and deployed Acronis Cyber Protect Cloud solutions, leveraging cloud automation for scalability and operational effciency.",
     ]
-  }
+  },
   {
     title: "Cloud Engineer",
     company: "Acronis GmbH",
