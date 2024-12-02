@@ -2,25 +2,26 @@ import React from 'react';
 
 const education = [
   {
-    degree: "Master of Science in Computer Science",
-    school: "Tech University",
-    period: "2017 - 2019",
-    details: "Specialization in Cloud Computing and Distributed Systems"
+    degree: "Project Management Diploma",
+    school: "ADEN Business School",
+    period: "2019 - 2019",
+    details: "Project management with a focus on Agile methodologies and best practices.">
   },
   {
     degree: "Bachelor of Engineering in Computer Science",
-    school: "Engineering College",
-    period: "2013 - 2017",
+    school: "Universidad Francisco Gavidia",
+    period: "2014 - 2021",
     details: "Focus on Software Engineering and Network Security"
   }
 ];
 
 const certifications = [
-  "AWS Certified Solutions Architect - Professional",
-  "Google Cloud Professional Cloud Architect",
-  "Certified Kubernetes Administrator (CKA)",
-  "HashiCorp Certified Terraform Associate",
-  "Red Hat Certified Engineer (RHCE)"
+  "Microsoft Certified: Azure Administrator - Associate - Mar 2024",
+  "CompTIA Cloud+ — Nov 2023",
+  "CompTIA Network+ — Apr 2023",
+  "CompTIA Linux+ — Nov 2022",
+  "CompTIA Cloud Admin Professional CCAP— Dec 2023",
+  "CompTIA Linux Network Professional CLNP — Jun 2023"
 ];
 
 export default function Education() {
