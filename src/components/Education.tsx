@@ -5,7 +5,7 @@ const education = [
     degree: "Project Management Diploma",
     school: "ADEN Business School",
     period: "2019 - 2019",
-    details: "Project management with a focus on Agile methodologies and best practices.">
+    details: "Project management with a focus on Agile methodologies and best practices."
   },
   {
     degree: "Bachelor of Engineering in Computer Science",

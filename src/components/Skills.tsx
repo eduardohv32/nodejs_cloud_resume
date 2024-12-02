@@ -2,10 +2,10 @@ import React from 'react';
 import SectionTitle from './SectionTitle';
 
 const skills = {
-  cloud: ["AWS", "Azure", "GCP", "OpenStack"],
-  devops: ["Docker", "Kubernetes", "Jenkins", "GitLab CI", "GitHub Actions"],
-  infrastructure: ["Terraform", "Ansible", "CloudFormation", "Puppet"],
-  monitoring: ["Prometheus", "Grafana", "ELK Stack", "Datadog"],
+  cloud: ["Azure", "AWS", "GCP"],
+  devops: ["Docker", "Kubernetes", "Azure DevOps", "GitHub Actions"],
+  infrastructure: ["Terraform", "Ansible"],
+  monitoring: ["Grafana"],
   languages: ["Python", "Bash", "JavaScript", "Go"]
 };
 
