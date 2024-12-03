@@ -9,7 +9,7 @@ export default function Header() {
       <div className="container mx-auto px-4 relative">
         <div className="flex flex-col items-center text-center">
           <ProfilePhoto 
-            imageUrl="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=400&h=400"
+            imageUrl="https://media.licdn.com/dms/image/v2/C4D03AQFczNivBu_lrQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1604863553382?e=1738800000&v=beta&t=1ADPpRgrSOYYf9X_CDcZcFUN-OuYx9p7PuACdUYlrgQ"
             alt="Eduardo Henriquez - Cloud Engineer"
           />
           <div className="relative">
@@ -30,19 +30,19 @@ export default function Header() {
           </p>
           <div className="flex gap-8">
             <a 
-              href="https://github.com" 
+              href="https://github.com/eduardohv32" 
               className="transform hover:scale-110 transition-transform duration-200 hover:text-blue-400"
             >
               <Github className="w-7 h-7" />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/eduardo-henriquez/" 
               className="transform hover:scale-110 transition-transform duration-200 hover:text-blue-400"
             >
               <Linkedin className="w-7 h-7" />
             </a>
             <a 
-              href="mailto:your.email@example.com" 
+              href="mailto:eduardohv32@gmail.com" 
               className="transform hover:scale-110 transition-transform duration-200 hover:text-blue-400"
             >
               <Mail className="w-7 h-7" />
