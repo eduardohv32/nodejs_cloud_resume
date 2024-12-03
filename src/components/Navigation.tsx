@@ -31,7 +31,7 @@ export default function Navigation() {
           <a href="#" className={`font-bold text-xl ${
             isScrolled ? 'text-gray-800' : 'text-white'
           }`}>
-            John Doe
+            Ed Henriquez
           </a>
 
           {/* Desktop Navigation */}
