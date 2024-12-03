@@ -12,8 +12,8 @@ export default function Contact() {
               <Mail className="w-6 h-6 text-blue-400" />
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <a href="mailto:your.email@example.com" className="text-blue-400 hover:text-blue-300">
-                  your.email@example.com
+                <a href="mailto:eduardohv32@gmail.com" className="text-blue-400 hover:text-blue-300">
+                eduardohv32@gmail.com
                 </a>
               </div>
             </div>
@@ -21,15 +21,15 @@ export default function Contact() {
               <MapPin className="w-6 h-6 text-blue-400" />
               <div>
                 <h3 className="font-semibold">Location</h3>
-                <p>San Francisco, CA</p>
+                <p>San Salvador, El Salvador</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
               <Linkedin className="w-6 h-6 text-blue-400" />
               <div>
                 <h3 className="font-semibold">LinkedIn</h3>
-                <a href="https://linkedin.com" className="text-blue-400 hover:text-blue-300">
-                  /in/johndoe
+                <a href="https://www.linkedin.com/in/eduardo-henriquez/" className="text-blue-400 hover:text-blue-300">
+                  /in/eduardo-henriquez/
                 </a>
               </div>
             </div>
@@ -37,8 +37,8 @@ export default function Contact() {
               <Github className="w-6 h-6 text-blue-400" />
               <div>
                 <h3 className="font-semibold">GitHub</h3>
-                <a href="https://github.com" className="text-blue-400 hover:text-blue-300">
-                  @johndoe
+                <a href="https://github.com/eduardohv32" className="text-blue-400 hover:text-blue-300">
+                  @eduardohv32
                 </a>
               </div>
             </div>

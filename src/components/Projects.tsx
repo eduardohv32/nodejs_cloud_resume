@@ -3,10 +3,10 @@ import { Github, ExternalLink } from 'lucide-react';
 
 const projects = [
   {
-    title: "Cloud-Native Microservices Platform",
-    description: "Designed and implemented a scalable microservices architecture using Kubernetes, service mesh, and automated CI/CD pipelines.",
-    technologies: ["Kubernetes", "Istio", "ArgoCD", "Prometheus"],
-    github: "https://github.com",
+    title: "Cloud Resume Challenge - Azure",
+    description: "Designed and implemented a website with React showcasing my work experience and Studies",
+    technologies: ["App Service", "CI/CD", "GitHub Actions", "Azure Functions"],
+    github: "https://github.com/eduardohv32/nodejs_cloud_resume",
     live: "https://example.com"
   },
   {
