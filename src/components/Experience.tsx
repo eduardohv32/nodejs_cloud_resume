@@ -11,21 +11,9 @@ interface ExperienceItem {
 
 const experiences: ExperienceItem[] = [
   {
-    title: "IT Manager - LATAM & Americas",
-    company: "Ubiquity Global Services",
-    period: "Aug 2024 - Present",
-    description: [
-      "Led and coordinated multiple IT teams across NetOps, SysOps, and End User Support to ensure smooth operations for the LATAM and Americas regions.",
-      "Project Leadership: Directed the end-to-end automation of the deployment of 500 computers for a new site in Ghana, streamlining the process and reducing setup time by 30%.",
-      "Site Expansion: Managed the expansion of a Ubiquity site in the USA, adding 100 new seats, including workstations, network infrastructure (Wi-Fi), and security systems (cameras), supporting the growth of the operations.",
-      "New Site Implementation: Oversaw the successful launch and implementation of a new site in El Salvador, including coordinating equipment installation, network setup, and employee onboarding.",
-      "Team Leadership: Fostered collaboration and streamlined workflows across cross-functional teams to ensure efficient IT operations, including incident management, infrastructure deployment, and user support."
-    ]
-  },
-  {
     title: "Cloud Engineer",
     company: "Acronis GmbH",
-    period: "Mar 2021 - Aug 2024",
+    period: "Mar 2021 - Present",
     description: [
       "Managed and optimized cloud backup, disaster recovery, and cybersecurity solutions across AWS, Azure, and GCP, automating processes to improve effciency.",
       "Collaborated with the development team to identify issues, other solutions, and ensure a smooth deployment pipeline.",
@@ -33,13 +21,43 @@ const experiences: ExperienceItem[] = [
     ]
   },
   {
-    title: "Cloud Engineer",
-    company: "Acronis GmbH",
-    period: "Mar 2021 - Aug 2024",
+    title: "Operations Manager",
+    company: "Omega HV Asociados",
+    period: "Feb 2020 - Feb 2021",
     description: [
-      "Managed and optimized cloud backup, disaster recovery, and cybersecurity solutions across AWS, Azure, and GCP, automating processes to improve effciency.",
-      "Collaborated with the development team to identify issues, other solutions, and ensure a smooth deployment pipeline.",
-      "Designed and deployed Acronis Cyber Protect Cloud solutions, leveraging cloud automation for scalability and operational effciency."
+      "Spearheaded automation projects, implementing RMM systems and internal knowledge base scripts to enhance operational effciency and reduce response times.",
+      "Optimized infrastructure by establishing processes for remote monitoring, reducing downtime and improving overall service delivery.",
+      "Implemented key customer service KPIs and SLAs, streamlining operations and improving customer satisfaction."
+    ]
+  },
+  {
+    title: "IT Manager",
+    company: "Prime Global Solutions",
+    period: "Jan 2019 - Feb 2020",
+    description: [
+      "Led the migration of on-premise infrastructure to Azure cloud, streamlining operations and improving scalability.",
+      "Implemented cloud-based solutions for disaster recovery and business continuity, ensuring secure and efficient systems.",
+      "Developed and deployed APIs and microservices, supporting the launch of a mobile app and enhancing integration across platforms.",
+      "Implemented and optimized a CI/CD pipeline using Azure DevOps, automating the deployment process and ensuring faster, more reliable application releases."
+    ]
+  },
+  {
+    title: "Technical Support Specialist",
+    company: "Telus International",
+    period: "Jun 2015 - Jan 2018",
+    description: [
+      "Technical support representative in charge to deliver solutions to Google business-class customer using G Suite products",
+      "Google G Suite Certified Administrator"
+    ]
+  },
+  {
+    title: "Presales Engineer",
+    company: "Omega HV Asociados",
+    period: "Jan 2010 - Jun 2015",
+    description: [
+      "Determine technical requirements to meet client goals and collaborate with sales support team.",
+      "Respond to any request or information to the proposals from the customer, supplying technical details of the proposed solutions.", 
+      "Coordinate transitions between pre-sales specifications and implementation engineering."
     ]
   }
 ];
