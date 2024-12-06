@@ -28,6 +28,7 @@ export default function Header() {
           like Docker and Kubernetes. Passionate about enabling continuous delivery and implementing DevOps practices to drive 
           efficiencies in cloud operations.
           </p>
+          <p>This page has been viewed <a id="counter"></a> times</p>
           <div className="flex gap-8">
             <a 
               href="https://github.com/eduardohv32" 
