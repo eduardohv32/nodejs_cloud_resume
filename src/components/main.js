@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', (event) =>{
     getVisitCount();
 })
-const functionApiUrl = 'https://countresumeone.azurewebsites.net/api/UpdateVisitorCount?code=Q3ChqSipyzceOiTiimS4Z0BI867VCq4rmG4Dg9dkwZW4AzFucfGpAg%3D%3D'
+const functionApiUrl = 'https://countresumeone.azurewebsites.net/api/UpdateVisitorCount?code=Q3ChqSipyzceOiTiimS4Z0BI867VCq4rmG4Dg9dkwZW4AzFucfGpAg%3D%3D';
 const localFunctionApi = 'http://localhost:7071/api/UpdateVisitorCount';
 
 
