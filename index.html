@@ -9,5 +9,24 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+    <script>
+      const updateVisitorCount = async () => {
+        try {
+          const response = await fetch("http://localhost:7071/api/UpdateVisitorCount", {
+            method: "POST",
+          });
+          const data = await response.json();
+          // Display the count in the <p> element
+          document.getElementById("visitorCount").textContent = ` ${data.count}`;
+        } catch (error) {
+          console.error("Error updating visitor count:", error);
+          document.getElementById("visitorCount").textContent =
+            "Error loading visitor count.";
+        }
+      };
+
+      // Call the function on page load
+      window.onload = updateVisitorCount;
+    </script>
   </body>
 </html>
