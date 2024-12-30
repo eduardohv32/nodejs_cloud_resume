@@ -17,7 +17,7 @@
           });
           const data = await response.json();
           // Display the count in the <p> element
-          document.getElementById("visitorCount").textContent = ` ${data.count}`;
+          document.getElementById("visitorCount").textContent = ` ${data.content}`;
         } catch (error) {
           console.error("Error updating visitor count:", error);
           document.getElementById("visitorCount").textContent =
