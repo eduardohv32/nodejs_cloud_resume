@@ -4,9 +4,19 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 
 const experiences = [
   {
+    title: "DevOps Engineer",
+    company: "Boxful Technologies",
+    period: "MarFeb 2025 - Present",
+    description: [
+      "Performed the migration of the on-premise deployment of the main application to a containerized environment using Docker and Kubernetes on Google Cloud Platform (GCP).",
+      "Designing and implementing CI/CD pipelines using GitHub Actions to automate application deployment, ensuring seamless integration and delivery of new features.",
+      "Managing Kubernetes clusters, optimizing resource allocation, and improving scalability and reliability.",
+    ]
+  },
+  {
     title: "Cloud Engineer",
     company: "Acronis GmbH",
-    period: "Mar 2021 - Present",
+    period: "Mar 2021 - Feb 2025",
     description: [
       "Managed and optimized cloud backup, disaster recovery, and cybersecurity solutions across AWS, Azure, and GCP, automating processes to improve effciency.",
       "Collaborated with the development team to identify issues, other solutions, and ensure a smooth deployment pipeline.",
