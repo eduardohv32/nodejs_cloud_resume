@@ -10,18 +10,18 @@ const projects = [
     live: "https://example.com"
   },
   {
-    title: "Infrastructure Automation Framework",
-    description: "Developed a comprehensive IaC framework for multi-cloud deployments with automated testing and security scanning.",
-    technologies: ["Terraform", "AWS", "Azure", "Python"],
+    title: "Infrastructure Automation on GCP",
+    description: "Automated the deployment of a multi-tier architecture on GCP using Terraform, ensuring consistent and repeatable infrastructure provisioning.",
+    technologies: ["Terraform", "GCP", "GitHub Actions"],
     github: "https://github.com",
-    live: "https://example.com"
+    live: "https://app.goboxful.com"
   },
   {
-    title: "Monitoring & Alerting System",
-    description: "Built a centralized monitoring solution for cloud infrastructure and applications with custom dashboards and alert routing.",
-    technologies: ["Prometheus", "Grafana", "ELK Stack", "PagerDuty"],
+    title: "Migration from VM to Kubernetes",
+    description: "Infrastructure migration of MongoDB databases running on VM to Google Kubernetes Engine",
+    technologies: ["MongoDB", "GKE", "MongoDB Operator"],
     github: "https://github.com",
-    live: "https://example.com"
+    live: "https://api.goboxful.com"
   }
 ];
 
