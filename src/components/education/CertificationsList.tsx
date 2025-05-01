@@ -11,19 +11,19 @@ const certifications = [
   {
     name: "CompTIA Cloud+",
     date: "Nov 2023",
-    badgeUrl: "https://images.credly.com/size/340x340/images/4a1a7339-ce0f-458a-9ee7-620416e68c19/CompTIA_Cloud_2Bce.png",
+    badgeUrl: "https://images.credly.com/size/80x80/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/blob",
     color: "bg-sky-500"
   },
   {
     name: "CompTIA Network+",
     date: "Apr 2023",
-    badgeUrl: "https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png",
+    badgeUrl: "https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob",
     color: "bg-green-500"
   },
   {
     name: "CompTIA Linux+",
     date: "Nov 2022",
-    badgeUrl: "https://images.credly.com/size/340x340/images/6edb32c5-37d8-4fd4-98cd-2811932f0185/CompTIA_Linux_2Bce.png",
+    badgeUrl: "https://images.credly.com/size/80x80/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob",
     color: "bg-orange-500"
   },
   {
